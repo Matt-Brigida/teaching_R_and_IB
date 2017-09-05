@@ -1,0 +1,1 @@
+This repo contains code to interact with the Interactive Brokers TWS, from within R, using the IBrokers package. The idea is to make it as easy as possible for students to implement their own algorithmic trading strategies.
